@@ -10,7 +10,7 @@ export const config = {
     "aws_media_bucket": "udagram-s3-dev"
   },
   "jwt": {
-    "secret": " "
+    "secret": "helloworldsamba"
   },
   "prod": {
     "username": "",
